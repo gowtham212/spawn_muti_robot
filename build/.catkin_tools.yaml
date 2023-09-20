@@ -1,0 +1,6 @@
+devel_space: /home/fldec-05/spawn_ws/devel
+install: false
+install_space: /home/fldec-05/spawn_ws/install
+profile: default
+source_space: /home/fldec-05/spawn_ws/src
+workspace: /home/fldec-05/spawn_ws

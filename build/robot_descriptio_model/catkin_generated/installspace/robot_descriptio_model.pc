@@ -1,0 +1,8 @@
+prefix=/home/fldec-05/spawn_ws/install
+
+Name: robot_descriptio_model
+Description: Description of robot_descriptio_model
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

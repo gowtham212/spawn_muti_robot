@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/fldec-05/spawn_ws/devel/.private/navigation_robot_pkg/setup.sh

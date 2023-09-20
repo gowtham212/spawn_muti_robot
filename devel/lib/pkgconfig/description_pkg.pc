@@ -1,0 +1,1 @@
+/home/fldec-05/spawn_ws/devel/.private/description_pkg/lib/pkgconfig/description_pkg.pc

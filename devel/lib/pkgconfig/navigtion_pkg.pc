@@ -1,0 +1,1 @@
+/home/fldec-05/spawn_ws/devel/.private/navigtion_pkg/lib/pkgconfig/navigtion_pkg.pc

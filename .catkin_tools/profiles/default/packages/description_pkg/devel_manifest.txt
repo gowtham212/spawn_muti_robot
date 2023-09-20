@@ -1,0 +1,5 @@
+description_pkg
+/home/fldec-05/spawn_ws/devel/.private/description_pkg/cmake.lock /home/fldec-05/spawn_ws/devel/./cmake.lock
+/home/fldec-05/spawn_ws/devel/.private/description_pkg/share/description_pkg/cmake/description_pkgConfig-version.cmake /home/fldec-05/spawn_ws/devel/share/description_pkg/cmake/description_pkgConfig-version.cmake
+/home/fldec-05/spawn_ws/devel/.private/description_pkg/share/description_pkg/cmake/description_pkgConfig.cmake /home/fldec-05/spawn_ws/devel/share/description_pkg/cmake/description_pkgConfig.cmake
+/home/fldec-05/spawn_ws/devel/.private/description_pkg/lib/pkgconfig/description_pkg.pc /home/fldec-05/spawn_ws/devel/lib/pkgconfig/description_pkg.pc

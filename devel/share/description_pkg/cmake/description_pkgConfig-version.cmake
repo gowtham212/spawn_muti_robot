@@ -1,0 +1,1 @@
+/home/fldec-05/spawn_ws/devel/.private/description_pkg/share/description_pkg/cmake/description_pkgConfig-version.cmake

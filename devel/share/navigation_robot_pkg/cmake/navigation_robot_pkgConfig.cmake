@@ -1,0 +1,1 @@
+/home/fldec-05/spawn_ws/devel/.private/navigation_robot_pkg/share/navigation_robot_pkg/cmake/navigation_robot_pkgConfig.cmake
